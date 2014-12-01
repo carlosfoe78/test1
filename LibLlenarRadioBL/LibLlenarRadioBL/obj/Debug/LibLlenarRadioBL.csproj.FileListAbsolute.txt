@@ -1,0 +1,26 @@
+H:\Desarrollo de software\Practica5\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibLlenarRadioBL.dll
+H:\Desarrollo de software\Practica5\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibLlenarRadioBL.pdb
+H:\Desarrollo de software\Practica5\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibconecxionBD.dll
+H:\Desarrollo de software\Practica5\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibParametros.dll
+H:\Desarrollo de software\Practica5\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibconecxionBD.pdb
+H:\Desarrollo de software\Practica5\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibParametros.pdb
+H:\Desarrollo de software\Practica5\LibLlenarRadioBL\LibLlenarRadioBL\obj\Debug\ResolveAssemblyReference.cache
+H:\Desarrollo de software\Practica5\LibLlenarRadioBL\LibLlenarRadioBL\obj\Debug\LibLlenarRadioBL.dll
+H:\Desarrollo de software\Practica5\LibLlenarRadioBL\LibLlenarRadioBL\obj\Debug\LibLlenarRadioBL.pdb
+C:\Users\CARLOSR\Desktop\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibLlenarRadioBL.dll
+C:\Users\CARLOSR\Desktop\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibLlenarRadioBL.pdb
+C:\Users\CARLOSR\Desktop\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibconecxionBD.dll
+C:\Users\CARLOSR\Desktop\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibconecxionBD.pdb
+C:\Users\CARLOSR\Desktop\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibParametros.pdb
+C:\Users\CARLOSR\Desktop\LibLlenarRadioBL\LibLlenarRadioBL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CARLOSR\Desktop\LibLlenarRadioBL\LibLlenarRadioBL\obj\Debug\LibLlenarRadioBL.dll
+C:\Users\CARLOSR\Desktop\LibLlenarRadioBL\LibLlenarRadioBL\obj\Debug\LibLlenarRadioBL.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibLlenarRadioBL.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibLlenarRadioBL.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibconecxionBD.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibParametros.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibconecxionBD.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarRadioBL\LibLlenarRadioBL\bin\Debug\LibParametros.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarRadioBL\LibLlenarRadioBL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarRadioBL\LibLlenarRadioBL\obj\Debug\LibLlenarRadioBL.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarRadioBL\LibLlenarRadioBL\obj\Debug\LibLlenarRadioBL.pdb

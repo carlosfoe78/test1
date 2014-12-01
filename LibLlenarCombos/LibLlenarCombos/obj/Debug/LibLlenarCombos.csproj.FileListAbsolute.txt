@@ -1,0 +1,36 @@
+H:\Desarrollo de software\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibLlenarCombos.dll
+H:\Desarrollo de software\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibLlenarCombos.pdb
+H:\Desarrollo de software\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibconecxionBD.dll
+H:\Desarrollo de software\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibParametros.dll
+H:\Desarrollo de software\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibconecxionBD.pdb
+H:\Desarrollo de software\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibParametros.pdb
+H:\Desarrollo de software\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\obj\Debug\ResolveAssemblyReference.cache
+H:\Desarrollo de software\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\obj\Debug\LibLlenarCombos.dll
+H:\Desarrollo de software\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\obj\Debug\LibLlenarCombos.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibLlenarCombos.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibLlenarCombos.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibconecxionBD.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibParametros.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibconecxionBD.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibParametros.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\obj\Debug\LibLlenarCombos.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\obj\Debug\LibLlenarCombos.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibLlenarCombos.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibLlenarCombos.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibconecxionBD.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibParametros.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibconecxionBD.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibParametros.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\obj\Debug\LibLlenarCombos.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\obj\Debug\LibLlenarCombos.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibLlenarCombos.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibLlenarCombos.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibconecxionBD.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibParametros.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibconecxionBD.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\bin\Debug\LibParametros.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\obj\Debug\LibLlenarCombos.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibLlenarCombos\LibLlenarCombos\obj\Debug\LibLlenarCombos.pdb
