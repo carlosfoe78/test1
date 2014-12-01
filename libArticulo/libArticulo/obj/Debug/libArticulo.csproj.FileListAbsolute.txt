@@ -1,0 +1,79 @@
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\libArticulo.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\libArticulo.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibconecxionBD.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarCombos.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibParametros.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibconecxionBD.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarCombos.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibParametros.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\obj\Debug\libArticulo.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\obj\Debug\libArticulo.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\clsInventario.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarGrids.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\clsInventario.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarGrids.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\libArticulo.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\libArticulo.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\clsInventario.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibconecxionBD.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarCombos.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarGrids.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibParametros.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\clsInventario.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibconecxionBD.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarCombos.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarGrids.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibParametros.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\obj\Debug\libArticulo.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\obj\Debug\libArticulo.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\libArticulo.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\libArticulo.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\clsInventario.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibconecxionBD.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarCombos.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarGrids.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibParametros.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\clsInventario.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibconecxionBD.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarCombos.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarGrids.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibParametros.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\obj\Debug\libArticulo.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\obj\Debug\libArticulo.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\libArticulo.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\libArticulo.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\clsInventario.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibconecxionBD.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarCombos.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarGrids.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\libMovimientosInventario.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibParametros.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\clsInventario.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibconecxionBD.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarCombos.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarGrids.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\libMovimientosInventario.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibParametros.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\obj\Debug\libArticulo.csprojResolveAssemblyReference.cache
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\obj\Debug\libArticulo.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\obj\Debug\libArticulo.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\libArticulo.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\libArticulo.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\clsInventario.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibconecxionBD.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarCombos.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarGrids.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\libMovimientosInventario.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibParametros.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\clsInventario.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibconecxionBD.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarCombos.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibLlenarGrids.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\libMovimientosInventario.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\bin\Debug\LibParametros.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\obj\Debug\libArticulo.csprojResolveAssemblyReference.cache
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\obj\Debug\libArticulo.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast\Practica5 (modificada para MySQL)\LibreriasComunes\libArticulo\libArticulo\obj\Debug\libArticulo.pdb

@@ -1,0 +1,28 @@
+K:\Desarrollo de software\Practica4\LibreriasComunes\LibParametros\LibParametros\bin\Debug\LibParametros.dll
+K:\Desarrollo de software\Practica4\LibreriasComunes\LibParametros\LibParametros\bin\Debug\LibParametros.pdb
+K:\Desarrollo de software\Practica4\LibreriasComunes\LibParametros\LibParametros\obj\Debug\ResolveAssemblyReference.cache
+K:\Desarrollo de software\Practica4\LibreriasComunes\LibParametros\LibParametros\obj\Debug\LibParametros.dll
+K:\Desarrollo de software\Practica4\LibreriasComunes\LibParametros\LibParametros\obj\Debug\LibParametros.pdb
+F:\Desarrollo de software\Practica4 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\bin\Debug\LibParametros.dll
+F:\Desarrollo de software\Practica4 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\bin\Debug\LibParametros.pdb
+F:\Desarrollo de software\Practica4 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\obj\Debug\ResolveAssemblyReference.cache
+F:\Desarrollo de software\Practica4 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\obj\Debug\LibParametros.dll
+F:\Desarrollo de software\Practica4 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\obj\Debug\LibParametros.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast1\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\bin\Debug\LibParametros.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast1\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\bin\Debug\LibParametros.pdb
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast1\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast1\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\obj\Debug\LibParametros.dll
+C:\Users\CARLOSR\Desktop\Proyecto Ideplast1\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\obj\Debug\LibParametros.pdb
+C:\Users\Carlos\Desktop\Proyecto Ideplast1\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\bin\Debug\LibParametros.dll
+C:\Users\Carlos\Desktop\Proyecto Ideplast1\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\bin\Debug\LibParametros.pdb
+C:\Users\Carlos\Desktop\Proyecto Ideplast1\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\obj\Debug\LibParametros.dll
+C:\Users\Carlos\Desktop\Proyecto Ideplast1\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\obj\Debug\LibParametros.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\bin\Debug\LibParametros.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\bin\Debug\LibParametros.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\obj\Debug\LibParametros.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\obj\Debug\LibParametros.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\bin\Debug\LibParametros.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\bin\Debug\LibParametros.pdb
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\obj\Debug\LibParametros.dll
+C:\Users\RAMIREZ\Desktop\Proyecto Ideplast2 - copia\Practica5 (modificada para MySQL)\LibreriasComunes\LibParametros\LibParametros\obj\Debug\LibParametros.pdb
